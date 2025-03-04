@@ -1,0 +1,8 @@
+Flask-PyMongo
+Flask-Bcrypt
+Flask-JWT-Extended
+flasgger
+pymongo
+Flask
+flask-swagger-ui
+python-dotenv
