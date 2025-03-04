@@ -91,14 +91,14 @@ To run the application with Docker, follow the steps below:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/lillard25/User_Management_Flask.git
     cd your-project
     ```
 
 2. Create a .env file:
     ```bash
     MONGO_URI=mongodb://localhost:27017/userdb
-    WT_SECRET_KEY=jwt-secret-string
+    JWT_SECRET_KEY=jwt-secret-string
     ```
 
 3. Build the Docker containers:
